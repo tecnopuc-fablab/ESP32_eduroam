@@ -24,6 +24,11 @@ Este guia mostrará como conectar rede eduroam usando ESP32
      do Gerenciado de Placas.
 
    ![image](https://user-images.githubusercontent.com/89941162/194557415-c4c7dbbe-ee8f-4dde-8075-d3ebf9581ae2.png)
+   
+   * Para instalar a plataforma ESP 32 vá em Ferramentas>Gerenciador de Placas e pesquise por esp32 (e não se esqueça de selecionar sua placa ESP32 em Tools > Board menu após a instalação).
+
+    ![image](https://user-images.githubusercontent.com/89941162/194558945-8049adb4-5415-46f4-b458-cdf3ae6bffff.png)
+
 
 
      

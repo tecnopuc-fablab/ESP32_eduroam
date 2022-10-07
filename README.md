@@ -3,6 +3,7 @@ Como conectar rede eduroam usando ESP32
 
 
 * Gerenciador de placas (URL)
+  * https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 * Gerenciador de bibliotecas 
   * WiFiClientSecure.h
   * esp_wpa2.h

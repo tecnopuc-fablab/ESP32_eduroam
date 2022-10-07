@@ -30,7 +30,8 @@ Este guia mostrará como conectar rede eduroam usando ESP32
     ![image](https://user-images.githubusercontent.com/89941162/194558945-8049adb4-5415-46f4-b458-cdf3ae6bffff.png)
     
     * Selecione a placa esp32
-    ![image](https://user-images.githubusercontent.com/89941162/194577643-05ba6136-9c01-4801-a4af-3cee4e1b4034.png)
+
+    ![image](https://user-images.githubusercontent.com/89941162/194578608-895b0952-c5ad-4bcd-a93e-a5bbea6311b6.png)
 
 
 

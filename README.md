@@ -7,7 +7,7 @@ Este guia mostrará como conectar rede eduroam usando ESP32
 
 
 * Instalar o Arduino-ESP32 diretamente do Arduino IDE.
-  * Para obter uma visão geral do suporte do SoC, dê uma olhada na tabela do Supported Soc, onde você pode descobrir se o chip específico está em versão estável ou de       desenvolvimento.
+  * Para obter uma visão geral do suporte do SoC, dê uma olhada em https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html, onde você pode descobrir     se o chip específico está em versão estável ou de       desenvolvimento.
 
     Link de lançamento estável:
 
@@ -15,7 +15,7 @@ Este guia mostrará como conectar rede eduroam usando ESP32
     Link de lançamento do desenvolvimento:
 
     https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-Observação
+
   * https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
   * ![image](https://user-images.githubusercontent.com/89941162/194546292-85e646ac-248e-44fd-b28b-30f399f7e8cf.png)
 

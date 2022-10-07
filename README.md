@@ -3,7 +3,8 @@ Este guia mostrará como conectar rede eduroam usando ESP32
 
 * Instalar IDE Arduino 2.0
   * https://www.arduino.cc/en/software
-  * ![image](https://user-images.githubusercontent.com/89941162/194549227-b027c393-b993-4c72-b426-d0bbdaa30cb3.png)
+  * ![image](https://user-images.githubusercontent.com/89941162/194555221-16933f51-ba2c-40ac-8774-4cd8fbb66659.png)
+
 
 
 * Instalar o Arduino-ESP32 diretamente do Arduino IDE.

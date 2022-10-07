@@ -12,11 +12,7 @@ Este guia mostrará como conectar rede eduroam usando ESP32
     Link de lançamento estável:
 
     https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-    Link de lançamento do desenvolvimento:
-
-    https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
-
-  * https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+    
   * ![image](https://user-images.githubusercontent.com/89941162/194546292-85e646ac-248e-44fd-b28b-30f399f7e8cf.png)
 
 * Gerenciador de bibliotecas 

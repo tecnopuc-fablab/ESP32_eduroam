@@ -11,7 +11,7 @@ Este guia mostrará como conectar rede eduroam usando ESP32
   * Para obter uma visão geral do suporte do SoC, dê uma olhada em https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html, onde você pode descobrir     se o chip específico está em versão estável ou de       desenvolvimento.
 
     Link de lançamento estável:
-  *https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+   https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
     
   *![image](https://user-images.githubusercontent.com/89941162/194555819-d0ebd85e-0921-4787-8e46-b3165bcba5be.png)
   
